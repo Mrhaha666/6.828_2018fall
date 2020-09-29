@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HW_2_Shell.dir/main.c.o CMakeFiles/HW_2_Shell.dir/sh.c.o  -o HW_2_Shell 
